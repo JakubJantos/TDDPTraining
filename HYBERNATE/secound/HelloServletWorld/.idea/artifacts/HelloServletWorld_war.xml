@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="HelloServletWorld:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloServletWorld_war</output-path>
+    <root id="archive" name="HelloServletWorld_war.war">
+      <element id="artifact" artifact-name="HelloServletWorld:war exploded" />
+    </root>
+  </artifact>
+</component>
